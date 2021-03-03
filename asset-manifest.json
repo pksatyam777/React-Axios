@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Axios/static/css/main.ce0c819e.chunk.css",
+    "main.js": "/React-Axios/static/js/main.0040f60f.chunk.js",
+    "main.js.map": "/React-Axios/static/js/main.0040f60f.chunk.js.map",
+    "runtime-main.js": "/React-Axios/static/js/runtime-main.7261648c.js",
+    "runtime-main.js.map": "/React-Axios/static/js/runtime-main.7261648c.js.map",
+    "static/js/2.07e34e22.chunk.js": "/React-Axios/static/js/2.07e34e22.chunk.js",
+    "static/js/2.07e34e22.chunk.js.map": "/React-Axios/static/js/2.07e34e22.chunk.js.map",
+    "index.html": "/React-Axios/index.html",
+    "precache-manifest.33a174f603510234188b2952aeb29f2f.js": "/React-Axios/precache-manifest.33a174f603510234188b2952aeb29f2f.js",
+    "service-worker.js": "/React-Axios/service-worker.js",
+    "static/css/main.ce0c819e.chunk.css.map": "/React-Axios/static/css/main.ce0c819e.chunk.css.map",
+    "static/js/2.07e34e22.chunk.js.LICENSE.txt": "/React-Axios/static/js/2.07e34e22.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7261648c.js",
+    "static/js/2.07e34e22.chunk.js",
+    "static/css/main.ce0c819e.chunk.css",
+    "static/js/main.0040f60f.chunk.js"
+  ]
+}
