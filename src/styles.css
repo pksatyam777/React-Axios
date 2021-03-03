@@ -1,0 +1,41 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.btn {
+  color: white;
+  background-color: rgb(159, 42, 212);
+  margin-left: 2%;
+  font-size: 15px;
+  height: 40px;
+  width: 120px;
+  border-radius: 20px;
+  outline: none;
+  border: none;
+  box-shadow: 2px 8px 8px #888888;
+}
+.btn:hover {
+  background-color: rgb(164, 12, 235);
+}
+.hold {
+  margin-left: 35%;
+  margin-top: 5%;
+}
+.out1 {
+  color: rgb(111, 15, 155);
+  line-height: 2;
+  font-size: 25px;
+}
+.hold-txt {
+  height: 30px;
+  width: 250px;
+  border-radius: 20px;
+  font-size: 20px;
+  color: rgb(245, 31, 113);
+}
+.hold-txt:focus {
+  outline: none;
+}
