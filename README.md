@@ -32,7 +32,7 @@ GET request for Fetch Name
 use axios  &  JSONPlaceholder 
 
 
-The created user will not display on the Josonplaceholder
+The created user will not display on the Josonplaceholder   
 
 
 How to check weather POST request to Add User is successful? 
